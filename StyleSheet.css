@@ -1,0 +1,15 @@
+﻿body {
+    margin:0;
+}
+#header {
+    text-align:right;
+    background-color:aquamarine;
+    padding:10px;
+}
+#content {
+    width:80%;
+    background-color:lightgray;
+    padding:20px;
+    margin:20px auto;
+    border-radius:2px;
+}
